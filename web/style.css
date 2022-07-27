@@ -1,0 +1,19 @@
+html {
+    box-sizing: border-box;
+    background-color: blue;
+    color: white;
+}
+
+div {
+    display: inline-block;
+    margin: 20px;
+}
+
+table {
+    border: white, solid, 1px;
+}
+
+body{
+    text-align: center;
+    padding-top: 70px;
+}
